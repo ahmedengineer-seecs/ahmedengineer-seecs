@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 [![Profile Summary](https://img.shields.io/badge/Profile_Summary-Click_Here-orange?style=flat-square&labelColor=444)](https://profile-summary-for-github.com/user/ahmedengineer-seecs)<br>
 👋 Hi, I’m @Ahmed-Hussain<br>🔭 About Me<br>🎓 Final year Electrical Engineering student.<br>👀 Interested in the intersection of hardware and intelligent software.<br>🌱 I’m currently learning<br>Complex Programming: Machine Learning & Deep Learning.<br>Computer Vision and advanced Embedded C.<br>💞️ I’m looking to collaborate on<br>Interesting projects solving real-world problems.<br>Python and AI-driven engineering solutions.<br>📫 How to reach me<br>Just drop a mail at: ahmedmagsiaa085@gmail.com<br>⚡ Fun fact<br>I am an Electrical Engineering student who loves both high voltages and complex programs like Embedded C, Python, and Machine Learning, Deep learning , computer vision , DSP, Wireless Communication .
 ## 🌐 Socials:
